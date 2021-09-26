@@ -1,0 +1,1 @@
+This is Miha's first git project!
